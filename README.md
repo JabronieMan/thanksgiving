@@ -1,50 +1,22 @@
 # Thanksgiving Recipe Collection
 
-This project is a collection of Thanksgiving recipes, formatted for easy viewing and deployment on GitHub Pages using Jekyll.
+This project is a collection of Thanksgiving recipes, presented as a single-page web application.
 
 ## Project Structure
 
-*   `_config.yml`: The main configuration file for the Jekyll site. It sets the theme, title, and other site-wide settings.
-*   `_posts/`: This directory contains the recipe files, each formatted as a markdown file with a specific naming convention (`YYYY-MM-DD-title.md`) and Jekyll front matter.
-*   `_layouts/`: This directory contains the HTML layouts for the site, including `default.html` for the base template and `post.html` for individual recipe pages.
-*   `index.html`: The home page of the site, which lists all the recipes from the `_posts` directory.
-*   `README.md`: This file, providing an overview of the project and instructions for development.
+*   `index.html`: The main file for the website. It contains all the recipes and the logic to display them in a tabbed interface.
+*   `recipes/`: This directory contains the individual recipe files in markdown format. The content of these files is embedded within the `index.html` file.
+*   `README.md`: This file, providing an overview of the project.
 
-## Development Workflow
+## How it Works
 
-This project uses Jekyll to manage recipes as posts. To add, edit, or delete a recipe, follow these guidelines:
+The `index.html` file uses the [Showdown](https://github.com/showdownjs/showdown) library to convert the markdown content from the `recipes/` directory into HTML at runtime. The recipes are displayed in a tabbed interface for easy navigation.
 
-### Adding a New Recipe
+## Development
 
-1.  Create a new markdown file in the `_posts` directory.
-2.  Name the file using the `YYYY-MM-DD-your-recipe-title.md` format (e.g., `2025-11-17-green-bean-casserole.md`).
-3.  Add the following front matter to the top of the file:
-    ```yaml
-    ---
-    layout: post
-    title: "Your Recipe Title"
-    ---
-    ```
-4.  Write the recipe content in markdown below the front matter.
+To add or edit a recipe, you need to:
 
-### Editing a Recipe
+1.  Modify the markdown content directly within the `index.html` file, inside the `<div id="markdown-content">` element. Each recipe is in its own `<div data-recipe="...">`.
+2.  Alternatively, you can edit the individual markdown files in the `recipes/` directory, and then update the content in the `index.html` file to match.
 
-To edit an existing recipe, simply open the corresponding markdown file in the `_posts` directory and make your changes.
-
-### Deleting a Recipe
-
-To delete a recipe, remove its markdown file from the `_posts` directory.
-
-## Deployment
-
-This project is set up for automatic deployment to GitHub Pages. Any changes pushed to the `main` branch will trigger a new build and deployment of the site.
-
-## Interacting with this Project using an Agentic System
-
-This project is designed to be easily managed by an agentic system. The following are key interaction points:
-
-*   **Recipe Management:** The agent can add, edit, or delete recipes by creating, modifying, or deleting markdown files in the `_posts` directory. The agent should be instructed to follow the file naming and front matter conventions.
-*   **Configuration:** The agent can modify the site's theme, title, and other settings by editing the `_config.yml` file.
-*   **Layouts:** The agent can change the site's appearance by editing the HTML and Liquid templates in the `_layouts` directory.
-
-By leveraging this structure, an agentic system can efficiently manage the content and presentation of this recipe collection.
+This setup is designed to be simple and self-contained, with no build process required.
