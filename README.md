@@ -1,161 +1,50 @@
-# Thanksgiving Recipes
+# Thanksgiving Recipe Collection
 
-<details>
-  <summary>Whole-Roasted Turkey</summary>
+This project is a collection of Thanksgiving recipes, formatted for easy viewing and deployment on GitHub Pages using Jekyll.
 
-# Whole-Roasted Turkey
+## Project Structure
 
-## Ingredients
+*   `_config.yml`: The main configuration file for the Jekyll site. It sets the theme, title, and other site-wide settings.
+*   `_posts/`: This directory contains the recipe files, each formatted as a markdown file with a specific naming convention (`YYYY-MM-DD-title.md`) and Jekyll front matter.
+*   `_layouts/`: This directory contains the HTML layouts for the site, including `default.html` for the base template and `post.html` for individual recipe pages.
+*   `index.html`: The home page of the site, which lists all the recipes from the `_posts` directory.
+*   `README.md`: This file, providing an overview of the project and instructions for development.
 
-*   10 to 14-pound turkey
-*   Sage
-*   Thyme
-*   1 onion, quartered
-*   1 head garlic, cloves smashed
-*   Softened butter
-*   3 tablespoons melted butter
-*   3 tablespoons molasses (or honey or maple)
-*   Water (for sheet tray)
+## Development Workflow
 
-## Procedure
+This project uses Jekyll to manage recipes as posts. To add, edit, or delete a recipe, follow these guidelines:
 
-### Low and Slow Cooking
+### Adding a New Recipe
 
-1.  Start with a 10 to 14-pound turkey. (Bigger birds will cook unevenly and dry out using this method.)
-2.  Dry brine for 24 to 48 hours.
-3.  Set a wire rack onto a sheet tray.
-4.  Use sage and thyme to make a bed of herbs for the turkey to rest on.
-5.  Place the turkey onto the herbs, stuff the cavity with a quartered onion and the smashed cloves from a head of garlic.
-6.  Secure the legs with the tail, twine, or foil.
-7.  Smear the entire turkey with a thin layer of softened butter and top generously with more sprigs of thyme and sage.
-8.  Pour enough water to cover the sheet tray by 1/4-inch and insert a digital thermometer into the thickest part of the turkey.
-9.  Use a few long sheets of foil to cover the tray and turkey. Crimp tightly around the edges of the sheet tray, while molding the foil into a tent over the turkey, so it's not lying directly on the surface of the turkey.
-10. Roast at 300F until you reach an internal temperature of 160F (an 11-pound turkey took 4 hours). You can leave the turkey at room temperature for up to 2 hours before it needs to be refrigerated.
+1.  Create a new markdown file in the `_posts` directory.
+2.  Name the file using the `YYYY-MM-DD-your-recipe-title.md` format (e.g., `2025-11-17-green-bean-casserole.md`).
+3.  Add the following front matter to the top of the file:
+    ```yaml
+    ---
+    layout: post
+    title: "Your Recipe Title"
+    ---
+    ```
+4.  Write the recipe content in markdown below the front matter.
 
-### Glazing and Browning
+### Editing a Recipe
 
-1.  **Prepare for glazing based on turkey's current state:**
-    *   If your turkey has been at room temperature for 2 hours, heat it covered at 350F for 10 minutes before proceeding.
-    *   If your turkey has been in the refrigerator, let it sit out at room temperature for 1 hour, then heat it covered at 350F until you reach an internal temperature of 140F, about 45 minutes, before proceeding.
-    *   If your turkey has just been roasted, remove it from the oven before proceeding.
-2.  Increase oven temperature to 425F.
-3.  Stir together 3 tablespoons melted butter with 3 tablespoons molasses (or honey or maple).
-4.  Unwrap turkey, remove sprigs of herbs, and brush with a thin layer of molasses mixture.
-5.  Roast turkey until deeply browned, about 8 to 10 minutes.
-6.  Rest, uncovered, for 30 minutes, carve, and serve.
+To edit an existing recipe, simply open the corresponding markdown file in the `_posts` directory and make your changes.
 
-</details>
+### Deleting a Recipe
 
-<details>
-  <summary>Buttery Pull-Apart Dinner Rolls</summary>
+To delete a recipe, remove its markdown file from the `_posts` directory.
 
-## Buttery Pull-Apart Dinner Rolls
+## Deployment
 
-### Ingredients
+This project is set up for automatic deployment to GitHub Pages. Any changes pushed to the `main` branch will trigger a new build and deployment of the site.
 
-*   10 tablespoons unsalted butter, cut into pieces, divided
-*   1 large or 2 small garlic cloves, finely grated
-*   ¾ cup whole milk, divided
-*   3 tablespoons plus 2¼ cups bread flour
-*   1 ¼-ounce envelope active dry yeast (about 2½ teaspoons)
-*   Vegetable oil (for bowl)
-*   Flaky sea salt
+## Interacting with this Project using an Agentic System
 
-### Preparation
+This project is designed to be easily managed by an agentic system. The following are key interaction points:
 
-1.  Place 5 Tbsp. butter in a medium bowl. Cook remaining 5 Tbsp. butter in a small saucepan over medium heat, swirling often, until butter foams, then turns golden brown, about 5 minutes. Remove from heat and stir in garlic; scrape butter mixture and all those toasty milk solids at the bottom of the pan into bowl with butter pieces. Reserve saucepan. Stir until all the butter is melted and mixture is smooth. Let sit, stirring occasionally, until butter is room temperature and solidified, 15–20 minutes.
-2.  Meanwhile, whisk ½ cup milk, 3 Tbsp. flour, and ¼ cup water in reserved saucepan until smooth, then set over medium heat and cook, whisking constantly, until it becomes a very stiff paste resembling mashed potatoes, about 2 minutes. Scrape into the bowl of a stand mixer; reserve saucepan.
-3.  Meanwhile, brush bottom and sides of a 13x9" baking dish with 2 Tbsp. garlic butter; set aside. Set aside another 2 Tbsp. garlic butter in a small bowl for brushing over baked rolls.
-4.  Add yeast mixture, sugar, 1 egg, and remaining 2¼ cups flour to paste in mixer bowl. Using the dough hook, mix on low speed until a shaggy dough forms. Add kosher salt, increase speed to medium, and continue mixing until dough forms a smooth single mass, about 3 minutes. Reduce speed to low again and add remaining garlic butter a tablespoonful at a time, waiting until incorporated before adding more. Once all of the garlic butter has been added, increase mixer speed back to medium and mix dough until very soft, smooth, and supple, another 8–10 minutes. Lightly oil a large bowl; form dough into a ball and place in bowl. Cover with plastic wrap and let rise in a warm draft-free spot until doubled in size, 45–60 minutes.
-5.  Punch down dough and knead several times to deflate, then turn out onto a clean work surface. To form the rolls, divide dough into 15 equal pieces (about 1½ oz. each). Working one at a time and keeping other pieces covered in plastic, fold edges of dough underneath, pinching bottom to seal. Turn 90° and fold and pinch again. Repeat process until you have created a smooth sphere with no seams except at the bottom.
-6.  Place ball on work surface and rest the side of your hand next to it so your palm and fingers are cupped around it. Drag the ball toward you, using friction against the work
-7.  Loosely cover pan with plastic wrap and let rolls rise in a warm draft-free spot until doubled in size and touching, 35–45 minutes (to test, poke one with an oiled finger; dough should spring back but leave a slight indentation).
-8.  Place a rack in middle of oven; preheat to 375°. Beat remaining egg in another small bowl until yolks and whites are incorporated and no streaks remain. Gently brush tops of rolls with egg, then sprinkle with sea salt.
-9.  Bake rolls until they are deep golden brown, 20–25 minutes. Transfer pan to a wire rack and brush warm rolls with reserved 2 Tbsp. garlic butter; let cool in pan 10 minutes.
-10. Slide an offset spatula around sides and underneath rolls to loosen, then invert onto rack and turn right side up. Let cool at least another 15 minutes before serving.
-11. **Do Ahead:** Dough can be formed into rolls (do not let rise) 1 day ahead; cover and chill. Let rise before baking; this may take around 3 hours.
+*   **Recipe Management:** The agent can add, edit, or delete recipes by creating, modifying, or deleting markdown files in the `_posts` directory. The agent should be instructed to follow the file naming and front matter conventions.
+*   **Configuration:** The agent can modify the site's theme, title, and other settings by editing the `_config.yml` file.
+*   **Layouts:** The agent can change the site's appearance by editing the HTML and Liquid templates in the `_layouts` directory.
 
-</details>
-
-<details>
-  <summary>Dave Arnold's Mom's Stuffing</summary>
-
-# Dave Arnold's Mom's Stuffing
-
-## Ingredients
-
-*   one tube of sausage (always Jones pork sausage roll)
-*   one loaf of Pepperidge Farm white
-*   onions
-*   celery
-*   butter
-*   mushrooms (sliced buttons, duh)
-*   canned mandarin oranges
-*   eggs
-*   salt
-*   pepper
-*   poultry seasoning
-
-## Instructions
-
-1.  Sweat onions and celery in butter, set aside.
-2.  Sauté mushrooms (sliced buttons, duh), set aside.
-3.  Break up and brown sausage in a pan (like you would loose chorizo for egg), set aside and reserve grease.
-4.  Melt some butter.
-5.  Drain some canned mandarin oranges and break up the wedges.
-6.  Tear the bread into pieces in a big bowl.
-7.  Locate eggs, salt, pepper, and poultry seasoning.
-8.  Toss in all the solid ingredients with the bread. Add some eggs, the sausage grease, some butter, salt, pepper, and, most importantly, poultry seasoning. Mix it all up. It will be too dry. Add some combo of more egg and butter and, I'm guessing, more poultry seasoning and salt.
-9.  I usually immersion-circulate this first, then remove the backbone and rib cage of our turkey and cook the bird over the hot stuffing plug. Do what you want, though. If you're going to cook it without meat, you might want a bit of stock or something.
-
-</details>
-
-<details>
-  <summary>Easy Vegan Gravy</summary>
-
-## Easy Vegan Gravy
-
-### Ingredients
-
-*   2 cups vegetable broth
-*   3/4 teaspoon onion powder
-*   3 tablespoons nutritional yeast
-*   1 tablespoon soy sauce (or use tamari for gluten free)
-*   1/2 teaspoon dijon mustard
-*   1/4 cup all purpose flour (or use brown rice flour for gluten free)
-
-### Instructions
-
-1.  Add all ingredients to a medium sized pot and bring to a boil.
-2.  Whisk over medium-high heat for a couple of minutes, until the gravy thickens.
-3.  Serve with mashed potatoes! This gravy keeps well for up to a week in the fridge. Just re-warm, add a little water if too thick, stir and serve.
-
-</details>
-
-<details>
-  <summary>Vegan Macaroni and Cheese</summary>
-
-# Vegan Macaroni and Cheese
-
-## Ingredients
-
-*   1 pound elbow macaroni or piccolini
-*   1/4 cup vegan margarine
-*   1/3 cup all-purpose flour (or gluten-free all-purpose flour)
-*   3 cups soy, almond, or rice milk
-*   1/2 cup nutritional yeast
-*   2 tablespoons tomato paste
-*   2 teaspoons sea salt
-*   1 teaspoon garlic powder
-*   1 tablespoon lemon juice
-*   1 tablespoon agave
-*   2 tablespoons seasoned bread crumbs
-
-## Procedure
-
-1.  Preheat oven to 350 degrees. Lightly grease a 9 x 13 inch pan.
-2.  Bring a large pot of heavily salted water to a boil. Add macaroni and cook according to package directions. Drain and return to pot.
-3.  Meanwhile, in a medium saucepan, make a roux or paste by whisking the margarine and flour over medium heat for 3 to 5 minutes. Add nondairy milk, yeast, tomato paste, salt, and garlic powder to the saucepan and bring to a boil, whisking frequently. Reduce heat to low and let simmer until the sauce thickens. Adjust seasoning to taste (I added a little black pepper) and stir in lemon juice and agave. Toss the noodles with the sauce and transfer to the prepared pan.
-4.  Sprinkle bread crumbs on top of the pasta and bake for 30 minutes or until the top is lightly browned and crisp. Remove from oven and let rest for 5 minutes before serving.
-
-</details>
+By leveraging this structure, an agentic system can efficiently manage the content and presentation of this recipe collection.
