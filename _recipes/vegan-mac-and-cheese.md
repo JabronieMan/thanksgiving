@@ -1,6 +1,18 @@
 ---
 layout: recipe
 title: Vegan Macaroni and Cheese
+ingredients:
+  - 1 pound elbow macaroni or piccolini
+  - 1/4 cup vegan margarine
+  - 1/3 cup all-purpose flour (or gluten-free all-purpose flour)
+  - 3 cups soy, almond, or rice milk
+  - 1/2 cup nutritional yeast
+  - 2 tablespoons tomato paste
+  - 2 teaspoons sea salt
+  - 1 teaspoon garlic powder
+  - 1 tablespoon lemon juice
+  - 1 tablespoon agave
+  - 2 tablespoons seasoned bread crumbs
 ---
 ## Ingredients
 

@@ -1,6 +1,13 @@
 ---
 layout: recipe
 title: Easy Vegan Gravy
+ingredients:
+  - 2 cups vegetable broth
+  - 3/4 teaspoon onion powder
+  - 3 tablespoons nutritional yeast
+  - 1 tablespoon soy sauce (or use tamari for gluten free)
+  - 1/2 teaspoon dijon mustard
+  - 1/4 cup all purpose flour (or use brown rice flour for gluten free)
 ---
 ### Ingredients
 

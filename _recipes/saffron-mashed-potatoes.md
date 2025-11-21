@@ -1,6 +1,15 @@
 ---
 layout: recipe
 title: Saffron Mashed Potatoes
+ingredients:
+  - 5 pounds potatoes, peeled and cut into large chunks
+  - Pinch saffron threads (make sure you use a good quality saffron, the expensive stuff-- the other kind has no flavor)
+  - 2 tablespoons non-hydrogenated margarine
+  - 1 1/2 tablespoons flour (for Passover or gluten free use 1 tbsp potato starch)
+  - 1 cup unsweetened non-dairy milk (or more if needed (almond, rice, soy, etc.))
+  - 3/4 cup unsweetened canned coconut milk
+  - 1 teaspoon crushed garlic
+  - Salt and black or white pepper to taste
 ---
 ### Ingredients
 

@@ -1,6 +1,14 @@
 ---
 layout: recipe
 title: Buttery Pull-Apart Dinner Rolls
+ingredients:
+  - 10 tablespoons unsalted butter, cut into pieces, divided
+  - 1 large or 2 small garlic cloves, finely grated
+  - ¾ cup whole milk, divided
+  - 3 tablespoons plus 2¼ cups bread flour
+  - 1 ¼-ounce envelope active dry yeast (about 2½ teaspoons)
+  - Vegetable oil (for bowl)
+  - Flaky sea salt
 ---
 ### Ingredients
 

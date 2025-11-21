@@ -1,6 +1,12 @@
 ---
 layout: recipe
 title: Easy Vegan Pie Crust
+ingredients:
+  - 3 cup all-purpose flour (plus more for rolling)
+  - 0.5 teaspoon salt
+  - 0.5 teaspoon sugar
+  - 0.5 pound vegetable shortening
+  - 0.5 cup plant-based milk (or more if needed)
 ---
 ### Ingredients
 
