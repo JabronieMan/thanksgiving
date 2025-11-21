@@ -1,4 +1,17 @@
 document.addEventListener('DOMContentLoaded', function() {
+    // Drawer functionality
+    const drawerToggle = document.getElementById('recipe-drawer-toggle');
+    const drawerContent = document.getElementById('recipe-drawer-content');
+
+    if (drawerToggle && drawerContent) {
+        drawerToggle.addEventListener('click', function() {
+            const isHidden = drawerContent.style.display === 'none';
+            drawerContent.style.display = isHidden ? 'block' : 'none';
+            this.textContent = isHidden ? 'Hide All Recipes' : 'Show All Recipes';
+        });
+    }
+
+    // Shopping list functionality
     const recipeDataElement = document.getElementById('recipe-data');
     const recipeCheckboxes = document.querySelectorAll('.recipe-checkbox');
     const shoppingListUl = document.querySelector('#shopping-list ul');

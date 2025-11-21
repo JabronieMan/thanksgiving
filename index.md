@@ -17,11 +17,11 @@ title: Home
   .main-content {
     width: 100%;
   }
-  .recipe-list ul {
+  .recipe-list ul, .shopping-list-generator ul {
     list-style: none;
     padding: 0;
   }
-  .recipe-list li {
+  .recipe-list li, .shopping-list-generator li {
     margin-bottom: 10px;
   }
   #shopping-list ul {
@@ -32,6 +32,18 @@ title: Home
     padding: 5px 0;
     border-bottom: 1px solid #eee;
   }
+  #recipe-drawer-content {
+    display: none; /* Hidden by default */
+  }
+  .toggle-button {
+    cursor: pointer;
+    background: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+  }
+
   @media (min-width: 768px) {
     .drawer {
       width: 300px;
@@ -47,10 +59,24 @@ title: Home
   }
 </style>
 
+<div id="recipe-drawer">
+  <button id="recipe-drawer-toggle" class="toggle-button">Show All Recipes</button>
+  <div id="recipe-drawer-content" class="recipe-list">
+    <ul>
+      {% for recipe in site.recipes %}
+        <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<hr>
+
 <div class="container">
-  <aside class="drawer">
-    <h2>Recipes</h2>
-    <div id="recipe-list-container" class="recipe-list">
+  <aside class="drawer shopping-list-generator">
+    <h2>Shopping List Generator</h2>
+    <p>Select recipes to add their ingredients to the shopping list.</p>
+    <div id="recipe-checkbox-list">
       <ul>
         {% for recipe in site.recipes %}
           <li>
@@ -83,4 +109,4 @@ title: Home
   }
 </script>
 
-<script src="/assets/js/shopping-list.js"></script>
+<script src="{{ '/assets/js/shopping-list.js' | relative_url }}"></script>

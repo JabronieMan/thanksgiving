@@ -1,33 +1,47 @@
 # Thanksgiving Recipe Collection
 
-This project is a collection of Thanksgiving recipes, now powered by Jekyll for easy management and deployment on GitHub Pages.
+This project is a collection of Thanksgiving recipes, powered by Jekyll and made interactive with client-side JavaScript.
 
 ## Project Structure
 
-*   `_config.yml`: Jekyll's main configuration file, defining site-wide settings and collections.
-*   `_layouts/`: Contains HTML templates for the site.
-    *   `default.html`: The base layout providing the overall structure and styling.
-    *   `recipe.html`: A specific layout for rendering individual recipe pages.
-*   `_recipes/`: This directory is a Jekyll collection containing individual recipe files in markdown format. Each file includes YAML front matter for metadata.
-*   `index.md`: The main page of the site, which dynamically lists all recipes from the `_recipes` collection and hosts the interactive shopping list functionality.
-*   `assets/js/shopping-list.js`: Client-side JavaScript that handles the interactive shopping list logic.
-*   `README.md`: This file, providing an overview of the project.
+*   `_config.yml`: Jekyll's main configuration file.
+*   `_layouts/`: Contains HTML templates for `default` and `recipe` pages.
+*   `_recipes/`: A Jekyll collection containing individual recipe files in markdown format. Each file's front matter includes an `ingredients` list.
+*   `index.md`: The main page of the site. It contains the layout for the interactive features and includes the necessary Liquid templating to generate the data.
+*   `assets/js/shopping-list.js`: Client-side JavaScript that handles all interactive logic, including the recipe drawer and the shopping list generator.
+*   `README.md`: This file.
 
-## How it Works (Jekyll & GitHub Pages)
+## How it Works
 
-This site leverages Jekyll, a static site generator, which is natively supported by GitHub Pages.
+This site uses Jekyll to build the static pages and client-side JavaScript to provide an interactive experience.
 
-1.  **Markdown to HTML:** Jekyll takes the markdown files in `_recipes/` and `index.md`, processes them using the specified layouts (`recipe.html`, `default.html`), and converts them into static HTML pages.
-2.  **Dynamic Index & Data Embedding:** The `index.md` file uses Jekyll's Liquid templating to automatically generate a list of all recipes with checkboxes, and also embeds all recipe ingredient data directly into the page as a JSON object.
-3.  **Interactive Shopping List (JavaScript):** Client-side JavaScript (`assets/js/shopping-list.js`) reads the embedded recipe data. When a recipe checkbox is toggled, the script dynamically updates a shopping list displayed on the page, aggregating ingredients from selected recipes.
-4.  **Deployment:** When changes are pushed to the GitHub repository, GitHub Pages automatically builds the Jekyll site and deploys the generated HTML, CSS, and JavaScript assets.
+1.  **Jekyll Build:** Jekyll processes the markdown files, using the layouts in `_layouts/` to create the individual recipe pages and the main index page.
+2.  **Data Embedding:** On the main page (`index.md`), Jekyll's Liquid templating language is used to embed all recipe ingredient data into a JSON object, making it accessible to the client-side script.
+3.  **Interactive Features (JavaScript):** The `assets/js/shopping-list.js` script handles two main features on the homepage:
+    *   **Recipe Drawer:** A toggle button to show and hide a list of links to all individual recipe pages.
+    *   **Shopping List Generator:** A list of recipes with checkboxes that, when selected, dynamically populates a master shopping list.
+4.  **Deployment:** When changes are pushed to GitHub, GitHub Pages automatically runs the Jekyll build and deploys the resulting static site (HTML, CSS, and JS).
+
+## Homepage Features
+
+The main page is split into two interactive sections:
+
+### Recipe Drawer
+
+At the top of the page, there is a **"Show All Recipes"** button. Clicking this will expand a drawer containing direct links to each individual recipe page, allowing for easy navigation.
+
+### Shopping List Generator
+
+This section consists of two parts:
+1.  **Recipe Selection:** A list of all recipes, each with a checkbox.
+2.  **Shopping List:** A content area that displays the aggregated ingredients.
+
+When you check a box next to a recipe, its ingredients are automatically added to the shopping list. The list updates in real-time and only shows the unique set of ingredients from all selected recipes.
 
 ## Adding New Recipes
 
-To add a new recipe:
-
-1.  Create a new markdown file (e.g., `new-recipe.md`) inside the `_recipes/` directory.
-2.  At the top of the new file, add Jekyll "front matter" (a YAML block) like this:
+1.  Create a new markdown file in the `_recipes/` directory.
+2.  Add the required "front matter" to the top of the file, including a `title` and an `ingredients` list.
     ```yaml
     ---
     layout: recipe
@@ -35,28 +49,15 @@ To add a new recipe:
     ingredients:
       - Ingredient 1
       - Ingredient 2
-      - ...
     ---
     ```
-    Make sure to include the `ingredients` list in the front matter for the shopping list functionality to work correctly.
-3.  Below the front matter, write your recipe content using markdown, following the existing structure (e.g., `### Ingredients`, `### Instructions`).
-4.  Commit and push your changes. GitHub Pages will automatically rebuild the site, and your new recipe will appear on the home page and be available for the shopping list.
-
-## Interactive Shopping List
-
-The main page (`index.md`) now features a side drawer with a list of all available recipes. Each recipe has a checkbox next to it.
-
-*   **Select Recipes:** Check the box next to any recipe you wish to include in your shopping list.
-*   **Dynamic Update:** As you check/uncheck recipes, the shopping list in the main content area will automatically update to show all ingredients required for the selected recipes.
-*   **Ingredient Aggregation:** The shopping list will display unique ingredients from all selected recipes.
+3.  Write your recipe content below the front matter.
+4.  Commit and push your changes. The new recipe will automatically appear in the recipe drawer and the shopping list generator.
 
 ## Local Development (Optional)
 
-To preview your site locally before pushing to GitHub:
+To preview your site locally:
 
-1.  **Install Jekyll:** Follow the official Jekyll installation guide: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
-2.  **Serve the site:** Navigate to the project root in your terminal and run:
-    ```bash
-    bundle exec jekyll serve
-    ```
-    This will build the site and serve it at `http://localhost:4000` (or another port if 4000 is in use).
+1.  **Install Jekyll:** Follow the official guide at [jekyllrb.com](https://jekyllrb.com/docs/installation/).
+2.  **Serve the site:** In your terminal, run `bundle exec jekyll serve`.
+3.  Open your browser to `http://localhost:4000`.
