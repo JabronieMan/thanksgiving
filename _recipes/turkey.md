@@ -2,15 +2,33 @@
 layout: recipe
 title: Whole-Roasted Turkey
 ingredients:
-  - 10 to 14-pound turkey
-  - Sage
-  - Thyme
-  - 1 onion, quartered
-  - 1 head garlic, cloves smashed
-  - Softened butter
-  - 3 tablespoons melted butter
-  - 3 tablespoons molasses (or honey or maple)
-  - Water (for sheet tray)
+  - quantity: 12
+    unit: pound
+    name: turkey
+  - quantity:
+    unit:
+    name: Sage
+  - quantity:
+    unit:
+    name: Thyme
+  - quantity: 1
+    unit:
+    name: onion, quartered
+  - quantity: 1
+    unit: head
+    name: garlic, cloves smashed
+  - quantity:
+    unit:
+    name: Softened butter
+  - quantity: 3
+    unit: tablespoon
+    name: melted butter
+  - quantity: 3
+    unit: tablespoon
+    name: molasses (or honey or maple)
+  - quantity:
+    unit:
+    name: Water (for sheet tray)
 ---
 ## Ingredients
 

@@ -2,12 +2,24 @@
 layout: recipe
 title: Classic Vanilla Ice Cream
 ingredients:
-  - 2 cups heavy cream
-  - 1 cup whole milk
-  - ½ cup plus 2 tablespoons (125 grams) sugar
-  - 1 plump vanilla bean, split lengthwise and seeds scraped out
-  - ¼ teaspoon (1 gram) kosher salt
-  - 8 large egg yolks
+  - quantity: 2
+    unit: cup
+    name: heavy cream
+  - quantity: 1
+    unit: cup
+    name: whole milk
+  - quantity: 125
+    unit: gram
+    name: sugar
+  - quantity: 1
+    unit:
+    name: plump vanilla bean, split lengthwise and seeds scraped out
+  - quantity: 0.25
+    unit: teaspoon
+    name: kosher salt
+  - quantity: 8
+    unit:
+    name: large egg yolks
 ---
 ### Ingredients
 

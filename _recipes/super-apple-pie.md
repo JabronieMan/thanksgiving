@@ -2,20 +2,48 @@
 layout: recipe
 title: Super Apple Pie
 ingredients:
-  - 6 ounces unsalted butter, cut into 1/2-inch pieces
-  - 2 ounces vegetable shortening, cut into 1/2-inch pieces
-  - 5 to 7 tablespoons applejack
-  - 12 ounces all-purpose flour, approximately 2 3/4 cups, plus extra for dusting
-  - 1 teaspoon table salt
-  - 1 tablespoon granulated sugar
-  - 3 to 3 1/2 pounds apples, mixture of Granny Smith, Honeycrisp, Braeburn and Golden Delicious, about 6 large apples
-  - 1/2 cup sugar, divided
-  - 3 tablespoons tapioca flour
-  - 2 tablespoons apple jelly
-  - 1 tablespoon apple cider
-  - 2 teaspoons freshly squeezed lime juice
-  - 1/4 teaspoon kosher salt
-  - 1/4 teaspoon freshly ground grains of paradise
+  - quantity: 6
+    unit: ounce
+    name: unsalted butter, cut into 1/2-inch pieces
+  - quantity: 2
+    unit: ounce
+    name: vegetable shortening, cut into 1/2-inch pieces
+  - quantity: 6
+    unit: tablespoon
+    name: applejack
+  - quantity: 12
+    unit: ounce
+    name: all-purpose flour, plus extra for dusting
+  - quantity: 1
+    unit: teaspoon
+    name: table salt
+  - quantity: 1
+    unit: tablespoon
+    name: granulated sugar
+  - quantity: 3.25
+    unit: pound
+    name: apples, mixture of Granny Smith, Honeycrisp, Braeburn and Golden Delicious, about 6 large apples
+  - quantity: 0.5
+    unit: cup
+    name: sugar, divided
+  - quantity: 3
+    unit: tablespoon
+    name: tapioca flour
+  - quantity: 2
+    unit: tablespoon
+    name: apple jelly
+  - quantity: 1
+    unit: tablespoon
+    name: apple cider
+  - quantity: 2
+    unit: teaspoon
+    name: freshly squeezed lime juice
+  - quantity: 0.25
+    unit: teaspoon
+    name: kosher salt
+  - quantity: 0.25
+    unit: teaspoon
+    name: freshly ground grains of paradise
 ---
 ### Ingredients
 

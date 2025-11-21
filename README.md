@@ -41,18 +41,26 @@ When you check a box next to a recipe, its ingredients are automatically added t
 ## Adding New Recipes
 
 1.  Create a new markdown file in the `_recipes/` directory.
-2.  Add the required "front matter" to the top of the file, including a `title` and an `ingredients` list.
+2.  Add the required "front matter" to the top of the file. This must include a `title` and a structured `ingredients` list.
+3.  For the `ingredients` list, each item must be an object with `quantity`, `unit`, and `name` keys. This structure is required for the shopping list generator to work correctly.
     ```yaml
     ---
     layout: recipe
     title: Your Recipe Title Here
     ingredients:
-      - Ingredient 1
-      - Ingredient 2
+      - quantity: 2.5
+        unit: cup
+        name: all-purpose flour
+      - quantity: 1
+        unit:
+        name: large egg
+      - quantity:
+        unit:
+        name: salt to taste
     ---
     ```
-3.  Write your recipe content below the front matter.
-4.  Commit and push your changes. The new recipe will automatically appear in the recipe drawer and the shopping list generator.
+4.  Write your recipe content below the front matter.
+5.  Commit and push your changes. The new recipe will automatically appear in the recipe drawer and the shopping list generator.
 
 ## Local Development (Optional)
 

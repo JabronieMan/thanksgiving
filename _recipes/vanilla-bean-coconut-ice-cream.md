@@ -2,11 +2,21 @@
 layout: recipe
 title: Vanilla Bean Coconut Ice Cream
 ingredients:
-  - 2 14-ounce cans coconut cream* or full-fat coconut milk (see notes for brand recommendations)
-  - 1/2 cup organic cane sugar (sub up to half with agave nectar or maple syrup)
-  - 1 pinch sea salt
-  - 1 vanilla bean pod (split and scraped // or 1/4 - 1/2 tsp vanilla powder per 1 pod)
-  - 2 tsp pure vanilla extract
+  - quantity: 2
+    unit: 14-ounce can
+    name: coconut cream* or full-fat coconut milk (see notes for brand recommendations)
+  - quantity: 0.5
+    unit: cup
+    name: organic cane sugar (sub up to half with agave nectar or maple syrup)
+  - quantity: 1
+    unit: pinch
+    name: sea salt
+  - quantity: 1
+    unit:
+    name: vanilla bean pod (split and scraped // or 1/4 - 1/2 tsp vanilla powder per 1 pod)
+  - quantity: 2
+    unit: tsp
+    name: pure vanilla extract
 ---
 ### Ingredients
 

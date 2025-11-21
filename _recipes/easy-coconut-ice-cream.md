@@ -2,13 +2,27 @@
 layout: recipe
 title: Easy Coconut Ice Cream (Vegan)
 ingredients:
-  - two 400 ml tins full fat coconut milk
-  - 320 g tin condensed coconut milk
-  - 250 ml carton coconut cream
-  - pinch salt
-  - a pinch grated nutmeg (optional)
-  - 1 teaspoon vanilla extract (optional)
-  - 1 Tablespoon dark rum (optional)
+  - quantity: 2
+    unit: 400 ml tin
+    name: full fat coconut milk
+  - quantity: 1
+    unit: 320 g tin
+    name: condensed coconut milk
+  - quantity: 1
+    unit: 250 ml carton
+    name: coconut cream
+  - quantity: 1
+    unit: pinch
+    name: salt
+  - quantity: 1
+    unit: pinch
+    name: grated nutmeg (optional)
+  - quantity: 1
+    unit: teaspoon
+    name: vanilla extract (optional)
+  - quantity: 1
+    unit: Tablespoon
+    name: dark rum (optional)
 ---
 ### Ingredients
 

@@ -2,17 +2,39 @@
 layout: recipe
 title: Dave Arnold's Mom's Stuffing
 ingredients:
-  - one tube of sausage (always Jones pork sausage roll)
-  - one loaf of Pepperidge Farm white
-  - onions
-  - celery
-  - butter
-  - mushrooms (sliced buttons, duh)
-  - canned mandarin oranges
-  - eggs
-  - salt
-  - pepper
-  - poultry seasoning
+  - quantity: 1
+    unit: tube
+    name: sausage (always Jones pork sausage roll)
+  - quantity: 1
+    unit: loaf
+    name: Pepperidge Farm white
+  - quantity:
+    unit:
+    name: onions
+  - quantity:
+    unit:
+    name: celery
+  - quantity:
+    unit:
+    name: butter
+  - quantity:
+    unit:
+    name: mushrooms (sliced buttons, duh)
+  - quantity:
+    unit:
+    name: canned mandarin oranges
+  - quantity:
+    unit:
+    name: eggs
+  - quantity:
+    unit:
+    name: salt
+  - quantity:
+    unit:
+    name: pepper
+  - quantity:
+    unit:
+    name: poultry seasoning
 ---
 ## Ingredients
 
