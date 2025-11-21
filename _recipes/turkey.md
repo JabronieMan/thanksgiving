@@ -13,10 +13,12 @@ ingredients:
     name: Thyme
   - quantity: 1
     unit:
-    name: onion, quartered
+    name: onion
+    notes: quartered
   - quantity: 1
     unit: head
-    name: garlic, cloves smashed
+    name: garlic
+    notes: cloves smashed
   - quantity:
     unit:
     name: Softened butter
@@ -25,10 +27,12 @@ ingredients:
     name: melted butter
   - quantity: 3
     unit: tablespoon
-    name: molasses (or honey or maple)
+    name: molasses
+    notes: or honey or maple
   - quantity:
     unit:
-    name: Water (for sheet tray)
+    name: Water
+    notes: for sheet tray
 ---
 ## Ingredients
 

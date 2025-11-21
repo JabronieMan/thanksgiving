@@ -13,7 +13,8 @@ ingredients:
     name: sugar
   - quantity: 1
     unit:
-    name: plump vanilla bean, split lengthwise and seeds scraped out
+    name: plump vanilla bean
+    notes: split lengthwise and seeds scraped out
   - quantity: 0.25
     unit: teaspoon
     name: kosher salt

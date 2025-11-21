@@ -16,13 +16,16 @@ ingredients:
     name: salt
   - quantity: 1
     unit: pinch
-    name: grated nutmeg (optional)
+    name: grated nutmeg
+    notes: optional
   - quantity: 1
     unit: teaspoon
-    name: vanilla extract (optional)
+    name: vanilla extract
+    notes: optional
   - quantity: 1
     unit: Tablespoon
-    name: dark rum (optional)
+    name: dark rum
+    notes: optional
 ---
 ### Ingredients
 

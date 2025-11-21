@@ -4,16 +4,19 @@ title: Super Apple Pie
 ingredients:
   - quantity: 6
     unit: ounce
-    name: unsalted butter, cut into 1/2-inch pieces
+    name: unsalted butter
+    notes: cut into 1/2-inch pieces
   - quantity: 2
     unit: ounce
-    name: vegetable shortening, cut into 1/2-inch pieces
+    name: vegetable shortening
+    notes: cut into 1/2-inch pieces
   - quantity: 6
     unit: tablespoon
     name: applejack
   - quantity: 12
     unit: ounce
-    name: all-purpose flour, plus extra for dusting
+    name: all-purpose flour
+    notes: plus extra for dusting
   - quantity: 1
     unit: teaspoon
     name: table salt
@@ -22,10 +25,12 @@ ingredients:
     name: granulated sugar
   - quantity: 3.25
     unit: pound
-    name: apples, mixture of Granny Smith, Honeycrisp, Braeburn and Golden Delicious, about 6 large apples
+    name: apples
+    notes: mixture of Granny Smith, Honeycrisp, Braeburn and Golden Delicious, about 6 large apples
   - quantity: 0.5
     unit: cup
-    name: sugar, divided
+    name: sugar
+    notes: divided
   - quantity: 3
     unit: tablespoon
     name: tapioca flour

@@ -4,7 +4,8 @@ title: Easy Vegan Pie Crust
 ingredients:
   - quantity: 3
     unit: cup
-    name: all-purpose flour (plus more for rolling)
+    name: all-purpose flour
+    notes: plus more for rolling
   - quantity: 0.5
     unit: teaspoon
     name: salt
@@ -16,7 +17,8 @@ ingredients:
     name: vegetable shortening
   - quantity: 0.5
     unit: cup
-    name: plant-based milk (or more if needed)
+    name: plant-based milk
+    notes: or more if needed
 ---
 ### Ingredients
 

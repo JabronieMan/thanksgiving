@@ -4,13 +4,16 @@ title: Buttery Pull-Apart Dinner Rolls
 ingredients:
   - quantity: 10
     unit: tablespoon
-    name: unsalted butter, cut into pieces, divided
+    name: unsalted butter
+    notes: cut into pieces, divided
   - quantity: 2
     unit:
-    name: small garlic cloves, finely grated
+    name: small garlic cloves
+    notes: finely grated
   - quantity: 0.75
     unit: cup
-    name: whole milk, divided
+    name: whole milk
+    notes: divided
   - quantity: 3
     unit: tablespoon
     name: bread flour
@@ -19,10 +22,12 @@ ingredients:
     name: bread flour
   - quantity: 1
     unit: 1/4-ounce envelope
-    name: active dry yeast (about 2 1/2 teaspoons)
+    name: active dry yeast
+    notes: about 2 1/2 teaspoons
   - quantity:
     unit:
-    name: Vegetable oil (for bowl)
+    name: Vegetable oil
+    notes: for bowl
   - quantity:
     unit:
     name: Flaky sea salt

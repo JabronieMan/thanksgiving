@@ -10,7 +10,8 @@ ingredients:
     name: vegan margarine
   - quantity: 0.33
     unit: cup
-    name: all-purpose flour (or gluten-free all-purpose flour)
+    name: all-purpose flour
+    notes: or gluten-free all-purpose flour
   - quantity: 3
     unit: cup
     name: soy, almond, or rice milk

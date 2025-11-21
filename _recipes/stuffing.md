@@ -4,7 +4,8 @@ title: Dave Arnold's Mom's Stuffing
 ingredients:
   - quantity: 1
     unit: tube
-    name: sausage (always Jones pork sausage roll)
+    name: sausage
+    notes: always Jones pork sausage roll
   - quantity: 1
     unit: loaf
     name: Pepperidge Farm white
@@ -19,7 +20,8 @@ ingredients:
     name: butter
   - quantity:
     unit:
-    name: mushrooms (sliced buttons, duh)
+    name: mushrooms
+    notes: sliced buttons, duh
   - quantity:
     unit:
     name: canned mandarin oranges

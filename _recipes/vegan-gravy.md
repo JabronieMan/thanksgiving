@@ -13,13 +13,15 @@ ingredients:
     name: nutritional yeast
   - quantity: 1
     unit: tablespoon
-    name: soy sauce (or use tamari for gluten free)
+    name: soy sauce
+    notes: or use tamari for gluten free
   - quantity: 0.5
     unit: teaspoon
     name: dijon mustard
   - quantity: 0.25
     unit: cup
-    name: all purpose flour (or use brown rice flour for gluten free)
+    name: all purpose flour
+    notes: or use brown rice flour for gluten free
 ---
 ### Ingredients
 
