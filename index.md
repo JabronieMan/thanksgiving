@@ -10,12 +10,9 @@ title: Home
     flex-direction: column;
   }
 
-  .left-column, .right-column {
+  .column {
     width: 100%;
-  }
-
-  .shopping-list-generator {
-    margin-top: 20px;
+    padding: 10px;
   }
 
   .recipe-list ul, .shopping-list-generator ul {
@@ -39,6 +36,7 @@ title: Home
 
   #recipe-drawer-content {
     display: none; /* Hidden by default */
+    margin-top: 10px;
   }
 
   .toggle-button {
@@ -46,24 +44,28 @@ title: Home
     background: #f0f0f0;
     border: 1px solid #ccc;
     padding: 5px 10px;
-    margin-bottom: 10px;
     display: inline-block;
   }
 
   /* Desktop styles */
-  @media (min-width: 768px) {
+  @media (min-width: 992px) {
     .page-container {
       flex-direction: row;
       align-items: flex-start;
-      gap: 30px;
+      gap: 20px;
     }
 
-    .left-column {
-      width: 350px;
+    #drawer-column {
+      width: 250px;
       flex-shrink: 0;
     }
 
-    .right-column {
+    #generator-column {
+      width: 250px;
+      flex-shrink: 0;
+    }
+
+    #list-column {
       flex-grow: 1;
     }
   }
@@ -71,23 +73,21 @@ title: Home
 
 <div class="page-container">
   
-  <div class="left-column">
-    <div id="recipe-drawer">
-      <button id="recipe-drawer-toggle" class="toggle-button">Show All Recipes</button>
-      <div id="recipe-drawer-content" class="recipe-list">
-        <ul>
-          {% for recipe in site.recipes %}
-            <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
+  <div id="drawer-column" class="column">
+    <button id="recipe-drawer-toggle" class="toggle-button">Show All Recipes</button>
+    <div id="recipe-drawer-content" class="recipe-list">
+      <ul>
+        {% for recipe in site.recipes %}
+          <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+        {% endfor %}
+      </ul>
     </div>
+  </div>
 
-    <hr>
-
+  <div id="generator-column" class="column">
     <div class="shopping-list-generator">
-      <h2>Shopping List Generator</h2>
-      <p>Select recipes to add their ingredients to the shopping list.</p>
+      <h2>Generator</h2>
+      <p>Select recipes to create a shopping list.</p>
       <div id="recipe-checkbox-list">
         <ul>
           {% for recipe in site.recipes %}
@@ -103,10 +103,10 @@ title: Home
     </div>
   </div>
 
-  <div class="right-column">
+  <div id="list-column" class="column">
     <h2>Shopping List</h2>
     <div id="shopping-list">
-      <p>Select recipes from the list to see the required ingredients.</p>
+      <p>Select recipes from the generator to see the required ingredients.</p>
       <ul></ul>
     </div>
   </div>
