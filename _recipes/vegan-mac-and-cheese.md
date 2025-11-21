@@ -1,5 +1,7 @@
-# Vegan Macaroni and Cheese
-
+---
+layout: recipe
+title: Vegan Macaroni and Cheese
+---
 ## Ingredients
 
 *   1 pound elbow macaroni or piccolini

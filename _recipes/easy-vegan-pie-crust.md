@@ -1,5 +1,7 @@
-# Easy Vegan Pie Crust
-
+---
+layout: recipe
+title: Easy Vegan Pie Crust
+---
 ### Ingredients
 
 *   3 cup all-purpose flour (plus more for rolling)

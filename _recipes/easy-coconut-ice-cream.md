@@ -1,5 +1,7 @@
-# Easy Coconut Ice Cream (Vegan)
-
+---
+layout: recipe
+title: Easy Coconut Ice Cream (Vegan)
+---
 ### Ingredients
 
 *   two 400 ml tins full fat coconut milk

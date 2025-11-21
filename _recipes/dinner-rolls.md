@@ -1,5 +1,7 @@
-# Buttery Pull-Apart Dinner Rolls
-
+---
+layout: recipe
+title: Buttery Pull-Apart Dinner Rolls
+---
 ### Ingredients
 
 *   10 tablespoons unsalted butter, cut into pieces, divided

@@ -1,5 +1,7 @@
-# Saffron Mashed Potatoes
-
+---
+layout: recipe
+title: Saffron Mashed Potatoes
+---
 ### Ingredients
 
 *   5 pounds potatoes, peeled and cut into large chunks

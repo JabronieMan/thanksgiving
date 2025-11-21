@@ -1,0 +1,8 @@
+title: Thanksgiving Recipes
+description: A collection of recipes for Thanksgiving.
+theme: jekyll-theme-minimal
+
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:path/

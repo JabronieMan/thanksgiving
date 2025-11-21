@@ -1,5 +1,7 @@
-# Vanilla Bean Coconut Ice Cream
-
+---
+layout: recipe
+title: Vanilla Bean Coconut Ice Cream
+---
 ### Ingredients
 
 *   2 14-ounce cans coconut cream* or full-fat coconut milk (see notes for brand recommendations)

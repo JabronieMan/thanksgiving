@@ -1,5 +1,7 @@
-# Super Apple Pie
-
+---
+layout: recipe
+title: Super Apple Pie
+---
 ### Ingredients
 
 #### For the crust:

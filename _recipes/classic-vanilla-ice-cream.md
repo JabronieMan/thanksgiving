@@ -1,5 +1,7 @@
-# Classic Vanilla Ice Cream
-
+---
+layout: recipe
+title: Classic Vanilla Ice Cream
+---
 ### Ingredients
 
 *   2 cups heavy cream

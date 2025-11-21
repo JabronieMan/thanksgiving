@@ -1,5 +1,7 @@
-# Dave Arnold's Mom's Stuffing
-
+---
+layout: recipe
+title: Dave Arnold's Mom's Stuffing
+---
 ## Ingredients
 
 *   one tube of sausage (always Jones pork sausage roll)

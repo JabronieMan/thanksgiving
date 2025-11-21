@@ -1,5 +1,7 @@
-# Whole-Roasted Turkey
-
+---
+layout: recipe
+title: Whole-Roasted Turkey
+---
 ## Ingredients
 
 *   10 to 14-pound turkey

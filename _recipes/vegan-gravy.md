@@ -1,5 +1,7 @@
-# Easy Vegan Gravy
-
+---
+layout: recipe
+title: Easy Vegan Gravy
+---
 ### Ingredients
 
 *   2 cups vegetable broth
