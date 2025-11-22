@@ -76,6 +76,7 @@ title: Home
     <div class="day">
       <h3>Sunday</h3>
       <ul>
+        <li>Farmers Market</li>
         <li>Classic Vanilla Ice Cream</li>
         <li>Vegan Vanilla Bean Coconut Ice Cream</li>
       </ul>
@@ -101,6 +102,7 @@ title: Home
         <li>Dinner roll assembly</li>
         <li>Super Apple Pie</li>
         <li>Vegan Macaroni and Cheese (partially)</li>
+        <li>Vegan Green Bean Casserole (prepare)
       </ul>
     </div>
     <div class="day">
@@ -110,7 +112,7 @@ title: Home
         <li>Once a Year Mashed Potatoes</li>
         <li>Vegan Saffron Mashed Potatoes</li>
         <li>Vegan Macaroni and Cheese (finished)</li>
-        <li>Vegan Green Bean Casserole</li>
+        <li>Vegan Green Bean Casserole (finish)</li>
         <li>Turkey (roasting)</li>
       </ul>
     </div>
