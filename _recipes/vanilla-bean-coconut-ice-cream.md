@@ -36,10 +36,9 @@ ingredients:
 *   320 g tin condensed coconut milk
 *   250 ml carton coconut cream
 *   pinch salt
-*   1 vanilla bean pod (split and scraped // or 1/4 - 1/2 tsp vanilla powder per 1 pod)
+*   1 vanilla bean pod (split and scraped) 
 *   2 tsp pure vanilla extract
 *   a pinch grated nutmeg (optional)
-*   1 Tablespoon dark rum (optional)
 
 ### Instructions
 
