@@ -86,7 +86,7 @@ title: Home
 
   <div id="generator-column" class="column">
     <div class="shopping-list-generator">
-      <h2>Generator</h2>
+      <h2>Shopping List Generator</h2>
       <p>Select recipes to create a shopping list.</p>
       <div id="recipe-checkbox-list">
         <ul>
@@ -104,7 +104,7 @@ title: Home
   </div>
 
   <div id="list-column" class="column">
-    <h2>Shopping List</h2>
+    <h2>Ingredients</h2>
     <div id="shopping-list">
       <p>Select recipes from the generator to see the required ingredients.</p>
       <ul></ul>
