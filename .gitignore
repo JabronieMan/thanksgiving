@@ -1,0 +1,22 @@
+# Jekyll
+_site/
+.jekyll-cache/
+
+# Bundler
+vendor/bundle/
+
+# Logs
+*.log
+bundle_out.log
+bundle_err.log
+
+# Debug directory
+debug/
+
+# Other
+.DS_Store
+.sass-cache/
+.vscode/
+.idea/
+*.swp
+*~
