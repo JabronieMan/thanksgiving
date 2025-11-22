@@ -83,9 +83,8 @@ ingredients:
     name: espresso powder
     notes: for the caramel
 ---
-### Pumpkin Spice Latte Cheesecake
 
-*serves 8 | active time: 45 minutes | total time: at least 6 hours*
+**serves 8 | active time: 45 minutes | total time: at least 6 hours**
 
 ### Ingredients
 
@@ -110,7 +109,7 @@ ingredients:
 *   113 grams (½ cup) heavy cream, room temperature
 *   3 large eggs, well beaten, room temperature
 
-***for the caramel:***
+***for the caramel (optional):***
 
 *   67 grams (⅓ cup) granulated sugar
 *   40 grams (2 tablespoons) corn syrup
@@ -127,4 +126,4 @@ ingredients:
 5.  In a food processor, puree the squash until smooth. Take your time, stopping to scrape the sides of the processor and under the blade, ensuring there are no chunks. (If using pumpkin puree, skip to the next step.)
 6.  Add the cream cheese, brown sugar, maple, vanilla, cinnamon, ginger, nutmeg, and salt. Process until evenly combined, stopping to scrape the sides of the processor and under the blade. Add the cream and beaten eggs, and process until evenly combined. (Do not overmix after adding the eggs and cream.)
 7.  Pour into the baked and cooled crust. (If you want to level it up, pass it through a fine mesh strainer before pouring it into the crust.) Bake at 325F until the edges are set, but the center is still very runny, 35 to 40 minutes. (An instant-read thermometer inserted 1-inch from the edge should register between 170 to 175F). Turn off the oven and prop open the door with a wooden spoon. Continue cooking cheesecake in off oven for 1 hour. Cool fully in the fridge, at least 3 hours and preferably overnight, before serving. (Store tightly wrapped in the fridge for 5 days or freezer for 1 month.)
-8.  Combine the sugar, corn syrup, and water in a small pot. Cook over medium heat, swirling occasionally, until deeply browned, about 10 to 12 minutes. Carefully add the cream and espresso powder (it will bubble and steam vigorously) and simmer until thick and combined, about 1 minutes. Cool slightly then pour over cheesecake or serve alongside slices. (Keeps in the fridge forever.)
+8.  (Optional Caramel) Combine the sugar, corn syrup, and water in a small pot. Cook over medium heat, swirling occasionally, until deeply browned, about 10 to 12 minutes. Carefully add the cream and espresso powder (it will bubble and steam vigorously) and simmer until thick and combined, about 1 minutes. Cool slightly then pour over cheesecake or serve alongside slices. (Keeps in the fridge forever.)
