@@ -102,7 +102,7 @@ title: Home
         <li>Dinner roll assembly</li>
         <li>Super Apple Pie</li>
         <li>Vegan Macaroni and Cheese (partially)</li>
-        <li>Vegan Green Bean Casserole (prepare)
+        <li>Vegan Green Bean Casserole (prepare)</li>
       </ul>
     </div>
     <div class="day">
