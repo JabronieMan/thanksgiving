@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Saffron Mashed Potatoes
+title: Vegan Saffron Mashed Potatoes
 ingredients:
   - quantity: 5
     unit: pound

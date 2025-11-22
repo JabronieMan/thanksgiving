@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Vanilla Bean Coconut Ice Cream
+title: Vegan Vanilla Bean Coconut Ice Cream
 ingredients:
   - quantity: 2
     unit: 400 ml tin

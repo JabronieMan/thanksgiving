@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Easy Vegan Pie Crust
+title: Vegan Pie Crust
 ingredients:
   - quantity: 3
     unit: cup

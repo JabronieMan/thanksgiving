@@ -77,7 +77,7 @@ title: Home
     <button id="recipe-drawer-toggle" class="toggle-button">Show All Recipes</button>
     <div id="recipe-drawer-content" class="recipe-list">
       <ul>
-        {% for recipe in site.recipes %}
+        {% assign sorted_recipes = site.recipes | sort: 'title' %}{% for recipe in sorted_recipes %}
           <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
         {% endfor %}
       </ul>
@@ -90,7 +90,7 @@ title: Home
       <p>Select recipes to create a shopping list.</p>
       <div id="recipe-checkbox-list">
         <ul>
-          {% for recipe in site.recipes %}
+          {% assign sorted_recipes = site.recipes | sort: 'title' %}{% for recipe in sorted_recipes %}
             <li>
               <label>
                 <input type="checkbox" class="recipe-checkbox" data-recipe-title="{{ recipe.title | escape }}">
@@ -115,7 +115,7 @@ title: Home
 
 <script id="recipe-data" type="application/json">
   {
-    {% for recipe in site.recipes %}
+    {% assign sorted_recipes = site.recipes | sort: 'title' %}{% for recipe in sorted_recipes %}
       "{{ recipe.title | escape }}": {
         "ingredients": {{ recipe.ingredients | jsonify }}
       }

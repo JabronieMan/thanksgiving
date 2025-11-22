@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Easy Vegan Gravy
+title: Vegan Gravy
 ingredients:
   - quantity: 2
     unit: cup
