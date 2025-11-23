@@ -525,7 +525,7 @@ title: Home
           </div>
         </li>
         <li><strong>Agave Nectar</strong>: 1 bottle
-          <div class.hovercard">
+          <div class="hovercard">
             <p>Used in:</p>
             <ul>
               <li>Vegan Macaroni and Cheese</li>
