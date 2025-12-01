@@ -34,6 +34,9 @@ ingredients:
     name: Water
     notes: for sheet tray
 ---
+
+Source: [Sohla El-Waylly](https://sohla.substack.com/p/im-a-whole-roasted-turkey-person)
+
 ## Ingredients
 
 *   10 to 14-pound turkey

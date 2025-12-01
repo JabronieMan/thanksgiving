@@ -31,6 +31,9 @@ ingredients:
     unit:
     name: Salt and black or white pepper to taste
 ---
+
+Source: [Tori Avey](https://toriavey.com/saffron-mashed-potatoes/)
+
 ### Ingredients
 
 *   5 pounds potatoes, peeled and cut into large chunks

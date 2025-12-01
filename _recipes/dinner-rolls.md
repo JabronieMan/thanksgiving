@@ -32,6 +32,9 @@ ingredients:
     unit:
     name: Flaky sea salt
 ---
+
+Source: [Claire Saffitz](https://www.bonappetit.com/recipe/buttery-pull-apart-dinner-rolls)
+
 ### Ingredients
 
 *   10 tablespoons unsalted butter, cut into pieces, divided

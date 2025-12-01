@@ -30,6 +30,9 @@ ingredients:
     name: dark rum
     notes: optional
 ---
+
+Sources: [Hannah](https://domesticgothess.com/blog/2022/07/12/easy-coconut-ice-cream-vegan/) & [Dana Shultz](https://minimalistbaker.com/vanilla-bean-coconut-ice-cream/)
+
 ### Ingredients
 
 *   two 400 ml tins full fat coconut milk

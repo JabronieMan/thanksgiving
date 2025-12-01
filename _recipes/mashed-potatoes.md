@@ -16,6 +16,9 @@ ingredients:
     unit:
     name: salt and pepper to taste
 ---
+
+Source: [Chef John](https://www.allrecipes.com/recipe/8348734/chef-johns-ultimate-mashed-potatoes/)
+
 ### Ingredients
 
 *   3 1/4 pounds russet potatoes

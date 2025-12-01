@@ -22,6 +22,9 @@ ingredients:
     unit:
     name: large egg yolks
 ---
+
+Source: [Van Leeuwen Cookbook](https://vanleeuwenicecream.com/product/van-leeuwen-cookbook-2/)
+
 ### Ingredients
 
 *   2 cups heavy cream

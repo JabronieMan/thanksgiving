@@ -39,6 +39,9 @@ ingredients:
     name: crispy fried onions
     notes: divided
 ---
+
+Source: [Dana Shultz](https://minimalistbaker.com/vegan-green-bean-casserole/)
+
 ### Ingredients
 
 *   2 pound green beans (rinsed, trimmed and cut in half)

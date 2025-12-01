@@ -20,6 +20,9 @@ ingredients:
     name: plant-based milk
     notes: or more if needed
 ---
+
+Source: [Sam Turnbull](https://itdoesnttastelikechicken.com/easy-vegan-pie-crust/)
+
 ### Ingredients
 
 *   3 cup all-purpose flour (plus more for rolling)

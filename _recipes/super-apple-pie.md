@@ -50,6 +50,9 @@ ingredients:
     unit: teaspoon
     name: freshly ground grains of paradise
 ---
+
+Source: [Alton Brown](https://www.foodnetwork.com/recipes/alton-brown/super-apple-pie-recipe-1953451)
+
 ### Ingredients
 
 #### For the crust:

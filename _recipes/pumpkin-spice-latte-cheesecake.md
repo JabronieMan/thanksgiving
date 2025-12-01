@@ -84,6 +84,8 @@ ingredients:
     notes: for the caramel
 ---
 
+Source: [Sohla El-Waylly](https://sohla.substack.com/p/pumpkin-spice-latte-cheesecake)
+
 **serves 8 | active time: 45 minutes | total time: at least 6 hours**
 
 ### Ingredients
