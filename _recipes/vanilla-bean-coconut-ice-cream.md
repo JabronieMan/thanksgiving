@@ -44,6 +44,7 @@ ingredients:
 
 1.  The day or night before, place your ice cream churning bowl in the freezer to properly chill (see notes if you don't have an ice cream maker).
 2.  The following day, add all ingredients to a high-speed blender and blend on high until completely creamy and smooth for 1-2 minutes.
+2.  _Optional_: Quantities make almost two quarts. Separate one quart to be the regular vanilla to churn. With the leftover add 5 heaping tablespoons of sweetened cocoa powder and 2 heaping tablespoons of pure cocoa powder. This creates an end product that gives Fudgsicle vibes. 
 3.  Add mixture directly to chilled ice cream maker and churn according to manufacturer's instructions - about 45 minutes. It should look like soft serve (see photo). See notes if you don't have a churner.
 4.  Once churned, transfer the ice cream to a large freezer-safe container (such as a loaf pan) and use a spoon to smooth the top.
 5.  Cover securely and freeze for at least 4-6 hours or until firm. Set out for 5-10 minutes before serving to soften - a hot ice cream scoop also eases scooping.
