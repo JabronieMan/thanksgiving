@@ -2,23 +2,21 @@
 layout: recipe
 title: Once a Year Mashed Potatoes
 ingredients:
-  - quantity: 3.25
-    unit: pounds
-    name: russet potatoes
-    notes: smaller preferred
-  - quantity: 1
-    unit: pound
-    name: unsalted european butter
-  - quantity: 0.25
-    unit: cup
-    name: hot milk
-  - quantity:
-    unit:
-    name: salt and pepper to taste
+- quantity: 3.25
+  unit: pounds
+  name: russet potatoes
+  notes: smaller preferred
+- quantity: 1
+  unit: pound
+  name: unsalted european butter
+- quantity: 0.25
+  unit: cup
+  name: hot milk
+- quantity: null
+  unit: null
+  name: salt and pepper to taste
+source: '[Chef John](https://www.allrecipes.com/recipe/8348734/chef-johns-ultimate-mashed-potatoes/)'
 ---
-
-Source: [Chef John](https://www.allrecipes.com/recipe/8348734/chef-johns-ultimate-mashed-potatoes/)
-
 ### Ingredients
 
 *   3 1/4 pounds russet potatoes

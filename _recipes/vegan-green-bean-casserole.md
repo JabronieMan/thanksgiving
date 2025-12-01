@@ -2,46 +2,44 @@
 layout: recipe
 title: Vegan Green Bean Casserole
 ingredients:
-  - quantity: 2
-    unit: pound
-    name: green beans
-    notes: rinsed, trimmed and cut in half
-  - quantity:
-    unit:
-    name: Sea salt and black pepper
-  - quantity: 4
-    unit: Tbsp
-    name: vegan butter or olive oil
-  - quantity: 2
-    unit: medium
-    name: shallot
-    notes: minced
-  - quantity: 4
-    unit: cloves
-    name: garlic
-    notes: minced
-  - quantity: 2
-    unit: cup
-    name: finely chopped mushrooms
-    notes: button, baby bella, or cremini
-  - quantity: 4
-    unit: Tbsp
-    name: all-purpose flour
-  - quantity: 1.5
-    unit: cup
-    name: vegetable broth
-    notes: DIY or store-bought
-  - quantity: 2
-    unit: cup
-    name: unsweetened plain almond milk
-  - quantity: 3
-    unit: cup
-    name: crispy fried onions
-    notes: divided
+- quantity: 2
+  unit: pound
+  name: green beans
+  notes: rinsed, trimmed and cut in half
+- quantity: null
+  unit: null
+  name: Sea salt and black pepper
+- quantity: 4
+  unit: Tbsp
+  name: vegan butter or olive oil
+- quantity: 2
+  unit: medium
+  name: shallot
+  notes: minced
+- quantity: 4
+  unit: cloves
+  name: garlic
+  notes: minced
+- quantity: 2
+  unit: cup
+  name: finely chopped mushrooms
+  notes: button, baby bella, or cremini
+- quantity: 4
+  unit: Tbsp
+  name: all-purpose flour
+- quantity: 1.5
+  unit: cup
+  name: vegetable broth
+  notes: DIY or store-bought
+- quantity: 2
+  unit: cup
+  name: unsweetened plain almond milk
+- quantity: 3
+  unit: cup
+  name: crispy fried onions
+  notes: divided
+source: '[Dana Shultz](https://minimalistbaker.com/vegan-green-bean-casserole/)'
 ---
-
-Source: [Dana Shultz](https://minimalistbaker.com/vegan-green-bean-casserole/)
-
 ### Ingredients
 
 *   2 pound green beans (rinsed, trimmed and cut in half)

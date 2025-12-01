@@ -2,29 +2,27 @@
 layout: recipe
 title: Classic Vanilla Ice Cream
 ingredients:
-  - quantity: 2
-    unit: cup
-    name: heavy cream
-  - quantity: 1
-    unit: cup
-    name: whole milk
-  - quantity: 125
-    unit: gram
-    name: sugar
-  - quantity: 1
-    unit:
-    name: plump vanilla bean
-    notes: split lengthwise and seeds scraped out
-  - quantity: 0.25
-    unit: teaspoon
-    name: kosher salt
-  - quantity: 8
-    unit:
-    name: large egg yolks
+- quantity: 2
+  unit: cup
+  name: heavy cream
+- quantity: 1
+  unit: cup
+  name: whole milk
+- quantity: 125
+  unit: gram
+  name: sugar
+- quantity: 1
+  unit: null
+  name: plump vanilla bean
+  notes: split lengthwise and seeds scraped out
+- quantity: 0.25
+  unit: teaspoon
+  name: kosher salt
+- quantity: 8
+  unit: null
+  name: large egg yolks
+source: '[Van Leeuwen Cookbook](https://vanleeuwenicecream.com/product/van-leeuwen-cookbook-2/)'
 ---
-
-Source: [Van Leeuwen Cookbook](https://vanleeuwenicecream.com/product/van-leeuwen-cookbook-2/)
-
 ### Ingredients
 
 *   2 cups heavy cream

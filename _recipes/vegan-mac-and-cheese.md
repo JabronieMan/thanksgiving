@@ -2,44 +2,42 @@
 layout: recipe
 title: Vegan Macaroni and Cheese
 ingredients:
-  - quantity: 1
-    unit: pound
-    name: elbow macaroni or piccolini
-  - quantity: 0.25
-    unit: cup
-    name: vegan margarine
-  - quantity: 0.33
-    unit: cup
-    name: all-purpose flour
-    notes: or gluten-free all-purpose flour
-  - quantity: 3
-    unit: cup
-    name: soy, almond, or rice milk
-  - quantity: 0.5
-    unit: cup
-    name: nutritional yeast
-  - quantity: 2
-    unit: tablespoon
-    name: tomato paste
-  - quantity: 2
-    unit: teaspoon
-    name: sea salt
-  - quantity: 1
-    unit: teaspoon
-    name: garlic powder
-  - quantity: 1
-    unit: tablespoon
-    name: lemon juice
-  - quantity: 1
-    unit: tablespoon
-    name: agave
-  - quantity: 2
-    unit: tablespoon
-    name: seasoned bread crumbs
+- quantity: 1
+  unit: pound
+  name: elbow macaroni or piccolini
+- quantity: 0.25
+  unit: cup
+  name: vegan margarine
+- quantity: 0.33
+  unit: cup
+  name: all-purpose flour
+  notes: or gluten-free all-purpose flour
+- quantity: 3
+  unit: cup
+  name: soy, almond, or rice milk
+- quantity: 0.5
+  unit: cup
+  name: nutritional yeast
+- quantity: 2
+  unit: tablespoon
+  name: tomato paste
+- quantity: 2
+  unit: teaspoon
+  name: sea salt
+- quantity: 1
+  unit: teaspoon
+  name: garlic powder
+- quantity: 1
+  unit: tablespoon
+  name: lemon juice
+- quantity: 1
+  unit: tablespoon
+  name: agave
+- quantity: 2
+  unit: tablespoon
+  name: seasoned bread crumbs
+source: '[Chloe Coscarelli](https://spearfamilyculinaryadventures.blogspot.com/2012/04/baked-macaroni-and-cheese-vegan.html)'
 ---
-
-Source: [Chloe Coscarelli](https://spearfamilyculinaryadventures.blogspot.com/2012/04/baked-macaroni-and-cheese-vegan.html)
-
 ## Ingredients
 
 *   1 pound elbow macaroni or piccolini

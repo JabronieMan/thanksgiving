@@ -2,41 +2,39 @@
 layout: recipe
 title: Whole-Roasted Turkey
 ingredients:
-  - quantity: 12
-    unit: pound
-    name: turkey
-  - quantity:
-    unit:
-    name: Sage
-  - quantity:
-    unit:
-    name: Thyme
-  - quantity: 1
-    unit:
-    name: onion
-    notes: quartered
-  - quantity: 1
-    unit: head
-    name: garlic
-    notes: cloves smashed
-  - quantity:
-    unit:
-    name: Softened butter
-  - quantity: 3
-    unit: tablespoon
-    name: melted butter
-  - quantity: 3
-    unit: tablespoon
-    name: molasses
-    notes: or honey or maple
-  - quantity:
-    unit:
-    name: Water
-    notes: for sheet tray
+- quantity: 12
+  unit: pound
+  name: turkey
+- quantity: null
+  unit: null
+  name: Sage
+- quantity: null
+  unit: null
+  name: Thyme
+- quantity: 1
+  unit: null
+  name: onion
+  notes: quartered
+- quantity: 1
+  unit: head
+  name: garlic
+  notes: cloves smashed
+- quantity: null
+  unit: null
+  name: Softened butter
+- quantity: 3
+  unit: tablespoon
+  name: melted butter
+- quantity: 3
+  unit: tablespoon
+  name: molasses
+  notes: or honey or maple
+- quantity: null
+  unit: null
+  name: Water
+  notes: for sheet tray
+source: '[Sohla El-Waylly](https://sohla.substack.com/p/im-a-whole-roasted-turkey-person)'
 ---
-
-Source: [Sohla El-Waylly](https://sohla.substack.com/p/im-a-whole-roasted-turkey-person)
-
 ## Ingredients
 
 *   10 to 14-pound turkey

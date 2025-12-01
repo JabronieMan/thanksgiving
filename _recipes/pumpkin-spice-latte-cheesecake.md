@@ -2,90 +2,88 @@
 layout: recipe
 title: Pumpkin Spice Latte Cheesecake
 ingredients:
-  - quantity: 180
-    unit: grams
-    name: graham crackers
-    notes: 12 sheets, for the crust
-  - quantity: 0.5
-    unit: teaspoon
-    name: Diamond Crystal kosher salt
-    notes: for the crust
-  - quantity: 84
-    unit: grams
-    name: unsalted melted butter
-    notes: 6 tablespoons, plus more for pan, for the crust
-  - quantity: 56
-    unit: grams
-    name: pure maple syrup
-    notes: 3 tablespoons, for the crust
-  - quantity: 240
-    unit: grams
-    name: roasted winter squash
-    notes: 1 cup, or pumpkin puree, for the cheesecake
-  - quantity: 454
-    unit: grams
-    name: cream cheese
-    notes: 2-8 ounce packages, room temperature, for the cheesecake
-  - quantity: 107
-    unit: grams
-    name: light or dark brown sugar
-    notes: 1/2 cup packed, for the cheesecake
-  - quantity: 75
-    unit: grams
-    name: pure maple syrup
-    notes: 1/4 cup, for the cheesecake
-  - quantity: 1
-    unit: teaspoon
-    name: pure vanilla extract
-    notes: for the cheesecake
-  - quantity: 2
-    unit: teaspoons
-    name: ground cinnamon
-    notes: for the cheesecake
-  - quantity: 1.5
-    unit: teaspoons
-    name: ground ginger
-    notes: for the cheesecake
-  - quantity: 0.125
-    unit: teaspoon
-    name: ground nutmeg
-    notes: for the cheesecake
-  - quantity: 0.25
-    unit: teaspoon
-    name: Diamond Crystal kosher salt
-    notes: for the cheesecake
-  - quantity: 113
-    unit: grams
-    name: heavy cream
-    notes: 1/2 cup, room temperature, for the cheesecake
-  - quantity: 3
-    unit: large
-    name: eggs
-    notes: well beaten, room temperature, for the cheesecake
-  - quantity: 67
-    unit: grams
-    name: granulated sugar
-    notes: 1/3 cup, for the caramel
-  - quantity: 40
-    unit: grams
-    name: corn syrup
-    notes: 2 tablespoons, for the caramel
-  - quantity: 30
-    unit: grams
-    name: water
-    notes: 2 tablespoons, for the caramel
-  - quantity: 113
-    unit: grams
-    name: heavy cream
-    notes: 1/2 cup, for the caramel
-  - quantity: 1
-    unit: tablespoon
-    name: espresso powder
-    notes: for the caramel
+- quantity: 180
+  unit: grams
+  name: graham crackers
+  notes: 12 sheets, for the crust
+- quantity: 0.5
+  unit: teaspoon
+  name: Diamond Crystal kosher salt
+  notes: for the crust
+- quantity: 84
+  unit: grams
+  name: unsalted melted butter
+  notes: 6 tablespoons, plus more for pan, for the crust
+- quantity: 56
+  unit: grams
+  name: pure maple syrup
+  notes: 3 tablespoons, for the crust
+- quantity: 240
+  unit: grams
+  name: roasted winter squash
+  notes: 1 cup, or pumpkin puree, for the cheesecake
+- quantity: 454
+  unit: grams
+  name: cream cheese
+  notes: 2-8 ounce packages, room temperature, for the cheesecake
+- quantity: 107
+  unit: grams
+  name: light or dark brown sugar
+  notes: 1/2 cup packed, for the cheesecake
+- quantity: 75
+  unit: grams
+  name: pure maple syrup
+  notes: 1/4 cup, for the cheesecake
+- quantity: 1
+  unit: teaspoon
+  name: pure vanilla extract
+  notes: for the cheesecake
+- quantity: 2
+  unit: teaspoons
+  name: ground cinnamon
+  notes: for the cheesecake
+- quantity: 1.5
+  unit: teaspoons
+  name: ground ginger
+  notes: for the cheesecake
+- quantity: 0.125
+  unit: teaspoon
+  name: ground nutmeg
+  notes: for the cheesecake
+- quantity: 0.25
+  unit: teaspoon
+  name: Diamond Crystal kosher salt
+  notes: for the cheesecake
+- quantity: 113
+  unit: grams
+  name: heavy cream
+  notes: 1/2 cup, room temperature, for the cheesecake
+- quantity: 3
+  unit: large
+  name: eggs
+  notes: well beaten, room temperature, for the cheesecake
+- quantity: 67
+  unit: grams
+  name: granulated sugar
+  notes: 1/3 cup, for the caramel
+- quantity: 40
+  unit: grams
+  name: corn syrup
+  notes: 2 tablespoons, for the caramel
+- quantity: 30
+  unit: grams
+  name: water
+  notes: 2 tablespoons, for the caramel
+- quantity: 113
+  unit: grams
+  name: heavy cream
+  notes: 1/2 cup, for the caramel
+- quantity: 1
+  unit: tablespoon
+  name: espresso powder
+  notes: for the caramel
+source: '[Sohla El-Waylly](https://sohla.substack.com/p/pumpkin-spice-latte-cheesecake)'
 ---
-
-Source: [Sohla El-Waylly](https://sohla.substack.com/p/pumpkin-spice-latte-cheesecake)
-
 **serves 8 | active time: 45 minutes | total time: at least 6 hours**
 
 ### Ingredients

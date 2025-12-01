@@ -2,4 +2,7 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
+{% if page.source %}
+<p>Source: {{ page.source | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+{% endif %}
 {{ content }}

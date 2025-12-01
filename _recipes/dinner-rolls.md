@@ -2,39 +2,37 @@
 layout: recipe
 title: Buttery Pull-Apart Dinner Rolls
 ingredients:
-  - quantity: 10
-    unit: tablespoon
-    name: unsalted butter
-    notes: cut into pieces, divided
-  - quantity: 2
-    unit:
-    name: small garlic cloves
-    notes: finely grated
-  - quantity: 0.75
-    unit: cup
-    name: whole milk
-    notes: divided
-  - quantity: 3
-    unit: tablespoon
-    name: bread flour
-  - quantity: 2.25
-    unit: cup
-    name: bread flour
-  - quantity: 1
-    unit: 1/4-ounce envelope
-    name: active dry yeast
-    notes: about 2 1/2 teaspoons
-  - quantity:
-    unit:
-    name: Vegetable oil
-    notes: for bowl
-  - quantity:
-    unit:
-    name: Flaky sea salt
+- quantity: 10
+  unit: tablespoon
+  name: unsalted butter
+  notes: cut into pieces, divided
+- quantity: 2
+  unit: null
+  name: small garlic cloves
+  notes: finely grated
+- quantity: 0.75
+  unit: cup
+  name: whole milk
+  notes: divided
+- quantity: 3
+  unit: tablespoon
+  name: bread flour
+- quantity: 2.25
+  unit: cup
+  name: bread flour
+- quantity: 1
+  unit: 1/4-ounce envelope
+  name: active dry yeast
+  notes: about 2 1/2 teaspoons
+- quantity: null
+  unit: null
+  name: Vegetable oil
+  notes: for bowl
+- quantity: null
+  unit: null
+  name: Flaky sea salt
+source: '[Claire Saffitz](https://www.bonappetit.com/recipe/buttery-pull-apart-dinner-rolls)'
 ---
-
-Source: [Claire Saffitz](https://www.bonappetit.com/recipe/buttery-pull-apart-dinner-rolls)
-
 ### Ingredients
 
 *   10 tablespoons unsalted butter, cut into pieces, divided

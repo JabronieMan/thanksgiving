@@ -2,27 +2,25 @@
 layout: recipe
 title: Vegan Pie Crust
 ingredients:
-  - quantity: 3
-    unit: cup
-    name: all-purpose flour
-    notes: plus more for rolling
-  - quantity: 0.5
-    unit: teaspoon
-    name: salt
-  - quantity: 0.5
-    unit: teaspoon
-    name: sugar
-  - quantity: 0.5
-    unit: pound
-    name: vegetable shortening
-  - quantity: 0.5
-    unit: cup
-    name: plant-based milk
-    notes: or more if needed
+- quantity: 3
+  unit: cup
+  name: all-purpose flour
+  notes: plus more for rolling
+- quantity: 0.5
+  unit: teaspoon
+  name: salt
+- quantity: 0.5
+  unit: teaspoon
+  name: sugar
+- quantity: 0.5
+  unit: pound
+  name: vegetable shortening
+- quantity: 0.5
+  unit: cup
+  name: plant-based milk
+  notes: or more if needed
+source: '[Sam Turnbull](https://itdoesnttastelikechicken.com/easy-vegan-pie-crust/)'
 ---
-
-Source: [Sam Turnbull](https://itdoesnttastelikechicken.com/easy-vegan-pie-crust/)
-
 ### Ingredients
 
 *   3 cup all-purpose flour (plus more for rolling)

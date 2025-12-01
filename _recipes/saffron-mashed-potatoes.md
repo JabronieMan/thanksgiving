@@ -2,38 +2,37 @@
 layout: recipe
 title: Vegan Saffron Mashed Potatoes
 ingredients:
-  - quantity: 5
-    unit: pound
-    name: potatoes
-    notes: peeled and cut into large chunks
-  - quantity: 1
-    unit: pinch
-    name: saffron threads
-    notes: make sure you use a good quality saffron, the expensive stuff-- the other kind has no flavor
-  - quantity: 2
-    unit: tablespoon
-    name: non-hydrogenated margarine
-  - quantity: 1.5
-    unit: tablespoon
-    name: flour
-    notes: for Passover or gluten free use 1 tbsp potato starch
-  - quantity: 1
-    unit: cup
-    name: unsweetened non-dairy milk
-    notes: or more if needed (almond, rice, soy, etc.)
-  - quantity: 0.75
-    unit: cup
-    name: unsweetened canned coconut milk
-  - quantity: 1
-    unit: teaspoon
-    name: crushed garlic
-  - quantity:
-    unit:
-    name: Salt and black or white pepper to taste
+- quantity: 5
+  unit: pound
+  name: potatoes
+  notes: peeled and cut into large chunks
+- quantity: 1
+  unit: pinch
+  name: saffron threads
+  notes: make sure you use a good quality saffron, the expensive stuff-- the other
+    kind has no flavor
+- quantity: 2
+  unit: tablespoon
+  name: non-hydrogenated margarine
+- quantity: 1.5
+  unit: tablespoon
+  name: flour
+  notes: for Passover or gluten free use 1 tbsp potato starch
+- quantity: 1
+  unit: cup
+  name: unsweetened non-dairy milk
+  notes: or more if needed (almond, rice, soy, etc.)
+- quantity: 0.75
+  unit: cup
+  name: unsweetened canned coconut milk
+- quantity: 1
+  unit: teaspoon
+  name: crushed garlic
+- quantity: null
+  unit: null
+  name: Salt and black or white pepper to taste
+source: '[Tori Avey](https://toriavey.com/saffron-mashed-potatoes/)'
 ---
-
-Source: [Tori Avey](https://toriavey.com/saffron-mashed-potatoes/)
-
 ### Ingredients
 
 *   5 pounds potatoes, peeled and cut into large chunks

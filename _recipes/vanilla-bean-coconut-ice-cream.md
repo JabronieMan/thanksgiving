@@ -2,37 +2,36 @@
 layout: recipe
 title: Vegan Vanilla Bean Coconut Ice Cream
 ingredients:
-  - quantity: 2
-    unit: 400 ml tin
-    name: full fat coconut milk
-  - quantity: 1
-    unit: 320 g tin
-    name: condensed coconut milk
-  - quantity: 1
-    unit: 250 ml carton
-    name: coconut cream
-  - quantity: 1
-    unit: pinch
-    name: salt
-  - quantity: 1
-    unit:
-    name: vanilla bean pod
-    notes: split and scraped // or 1/4 - 1/2 tsp vanilla powder per 1 pod
-  - quantity: 2
-    unit: tsp
-    name: pure vanilla extract
-  - quantity: 1
-    unit: pinch
-    name: grated nutmeg
-    notes: optional
-  - quantity: 1
-    unit: Tablespoon
-    name: dark rum
-    notes: optional
+- quantity: 2
+  unit: 400 ml tin
+  name: full fat coconut milk
+- quantity: 1
+  unit: 320 g tin
+  name: condensed coconut milk
+- quantity: 1
+  unit: 250 ml carton
+  name: coconut cream
+- quantity: 1
+  unit: pinch
+  name: salt
+- quantity: 1
+  unit: null
+  name: vanilla bean pod
+  notes: split and scraped // or 1/4 - 1/2 tsp vanilla powder per 1 pod
+- quantity: 2
+  unit: tsp
+  name: pure vanilla extract
+- quantity: 1
+  unit: pinch
+  name: grated nutmeg
+  notes: optional
+- quantity: 1
+  unit: Tablespoon
+  name: dark rum
+  notes: optional
+source: '[Hannah](https://domesticgothess.com/blog/2022/07/12/easy-coconut-ice-cream-vegan/)
+  & [Dana Shultz](https://minimalistbaker.com/vanilla-bean-coconut-ice-cream/)'
 ---
-
-Sources: [Hannah](https://domesticgothess.com/blog/2022/07/12/easy-coconut-ice-cream-vegan/) & [Dana Shultz](https://minimalistbaker.com/vanilla-bean-coconut-ice-cream/)
-
 ### Ingredients
 
 *   two 400 ml tins full fat coconut milk
