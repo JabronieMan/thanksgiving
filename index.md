@@ -116,7 +116,6 @@ title: Home
       <ul>
         <li>Turkey pickup</li>
         <li>Turkey dry brining</li>
-        <li>Vegan Gravy</li>
       </ul>
     </div>
     <div class="day">
@@ -361,7 +360,6 @@ title: Home
             <ul>
               <li>Vegan Pie Crust</li>
               <li>Super Apple Pie</li>
-              <li>Vegan Gravy</li>
               <li>Vegan Green Bean Casserole</li>
               <li>Vegan Macaroni and Cheese</li>
             </ul>
@@ -405,7 +403,6 @@ title: Home
           <div class="hovercard">
             <p>Used in:</p>
             <ul>
-              <li>Vegan Gravy</li>
               <li>Vegan Green Bean Casserole</li>
             </ul>
           </div>
@@ -447,7 +444,6 @@ title: Home
           <div class="hovercard">
             <p>Used in:</p>
             <ul>
-              <li>Vegan Gravy</li>
               <li>Vegan Macaroni and Cheese</li>
             </ul>
           </div>
@@ -508,14 +504,7 @@ title: Home
             </ul>
           </div>
         </li>
-        <li><strong>Soy Sauce</strong> (or Tamari): 1 bottle
-          <div class="hovercard">
-            <p>Used in:</p>
-            <ul>
-              <li>Vegan Gravy</li>
-            </ul>
-          </div>
-        </li>
+
         <li><strong>Tomato Paste</strong>: 1 small can
           <div class="hovercard">
             <p>Used in:</p>
@@ -540,14 +529,7 @@ title: Home
             </ul>
           </div>
         </li>
-        <li><strong>Dijon Mustard</strong>: 1 jar
-          <div class="hovercard">
-            <p>Used in:</p>
-            <ul>
-              <li>Vegan Gravy</li>
-            </ul>
-          </div>
-        </li>
+
         <li><strong>Vegetable Oil</strong>: 1 bottle
           <div class="hovercard">
             <p>Used in:</p>
@@ -654,14 +636,7 @@ title: Home
             </ul>
           </div>
         </li>
-        <li><strong>Onion Powder</strong>
-          <div class="hovercard">
-            <p>Used in:</p>
-            <ul>
-              <li>Vegan Gravy</li>
-            </ul>
-          </div>
-        </li>
+
         <li><strong>Garlic Powder</strong>
           <div class="hovercard">
             <p>Used in:</p>
