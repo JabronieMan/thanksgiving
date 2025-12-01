@@ -4,11 +4,11 @@ title: Once a Year Mashed Potatoes
 ingredients:
   - quantity: 3.25
     unit: pounds
-    name: yukon gold potatoes
+    name: russet potatoes
     notes: smaller preferred
   - quantity: 1
     unit: pound
-    name: unsalted butter
+    name: unsalted european butter
   - quantity: 0.25
     unit: cup
     name: hot milk
@@ -18,17 +18,16 @@ ingredients:
 ---
 ### Ingredients
 
-*   3 1/4 pounds yukon gold potatoes (smaller preferred)
-*   1 pound unsalted butter
+*   3 1/4 pounds russet potatoes
+*   1 pound unsalted European butter
 *   1/4 cup hot milk
 *   salt and pepper to taste
 
 ### Instructions
 
-1.  Peel the **Yukon Gold potatoes** and cut them into roughly equal-sized 1 1/2 to 2-inch chunks. If using a ricer later, you can skip peeling. If the potatoes are small enough you can leave them whole.
-2.  Place the cut potatoes in a large pot and cover them with cold, salted water. Bring to a boil, then reduce heat to maintain a simmer. Cook until the potatoes are completely tender and easily pierced with a fork (about 15-20 minutes).
-3.  Drain the potatoes thoroughly in a colander. Allow them to sit for 1-2 minutes to steam-dry.
-4.  In a small saucepan, warm the **1/4 cup of hot milk** together.
-5.  Return the potatoes to the empty pot. Mash them vigorously with a potato masher or use a potato ricer for the smoothest results.
-6.  add the hot milk mixture while continuing to mash until the desired smooth and creamy consistency is achieved. Incorporate the butter from cold to ensure the emulsion is maintained, but don’t go too slow or you’ll risk overworking the potatoes.
-7.  Season generously with salt and pepper to taste. Serve immediately.
+1.  Peel potatoes; cut into quarters. Transfer to a bowl of cold water; rinse to remove starch. Drain. Transfer to a large pot of cold water; very generously salt the water. Bring to a boil over high heat. Reduce heat; simmer until potatoes are soft and the tip of a knife goes in easily, 20 to 25 minutes.
+2.  Meanwhile, cut butter in chunks and let come to room temperature.
+3.  Drain potatoes thoroughly; return to the pot over medium-low heat. Mash with a potato masher until potatoes are broken up; season with salt and black pepper. Add ¼ softened butter chunks; mash until butter just about disappears.
+4.  Add ¼ more butter; mix with a wire whisk until it just about disappears. Whisk in remaining ½ butter in 2 additions; potatoes will be light and creamy after all butter is mixed in.
+5.  Whisk in hot milk until incorporated. Season with cayenne and salt if needed. Serve immediately.
+
